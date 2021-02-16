@@ -1,5 +1,91 @@
+<!-- TODO: como funcionan las directivas de css? -->
+<!-- TODO: links distintos en desktop -->
+<!-- TODO: hacer seccion de webs que lo petan que flipas -->
+<!-- TODO: mover menu a la izquierda cuando el lector esté en desktop -->
+<!-- TODO: auto traducción de la web i18n - internationalization -->
+<!-- TODO: hacer que el tailwindcss sea mas pequeño porque ahora pesa mucho -->
+<!-- TODO: hacer el menu dinamico para que solo tenga que tocarlo en un solo sitio -->
+<!-- TODO: trackeo privacy friendly cookie-free de gente que entra en la web -->
+
 <html>
-<body>
-Listo para el deploy boiiiiiis. HOLA RICARDO.
-</body>
+  <head>
+    <!-- ... -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="tailwind.css" rel="stylesheet" />
+    <link href="styles.css" rel="stylesheet" />
+    <title>hola, soy diego</title>
+  </head>
+  <body class="p-4">
+    <div class="grid grid-cols-3 gap-4 text-center">
+      <div class="col-span-2 text-left">
+        <div class="flex justify-evenly">
+          <a href="https://linkedin.com/in/iamdiegovincent">
+            <div
+              class="w-8 h-8 bg-gray-200 flex rounded-full justify-center items-center"
+            >
+              🍑
+            </div>
+          </a>
+        </div>
+        <!-- beca de lacaixa card -->
+        <div class="rounded p-4">
+          <div id="header" class="flex items-center">
+            <p class="h-6 w-6 align-baseline">📚</p>
+            <div id="title" class="font-bold">
+              <span class="text-gray-400">2020</span> - beca
+            </div>
+          </div>
+          <div>
+            me dieron la beca de
+            <a
+              href="https://fundacionlacaixa.org/es/becas-la-caixa-posgrado-extranjero"
+              >lacaixa</a
+            >
+            para estudiar en u.s.a. 🇺🇸
+          </div>
+        </div>
+        <!-- app de polaroo -->
+        <div class="rounded p-4">
+          <div id="header" class="flex items-center">
+            <p class="h-6 w-6 align-baseline">📱</p>
+            <div id="title" class="font-bold">
+              <span class="text-gray-400">2020</span> - polaroo
+            </div>
+          </div>
+          <div>
+            estoy creando la aplicación de
+            <a href="http://polaroo.com">polaroo</a>
+          </div>
+        </div>
+        <!-- graduation -->
+        <div class="rounded p-4">
+          <div id="header" class="flex items-center">
+            <p class="h-6 w-6 align-baseline">🎓</p>
+            <div id="title" class="font-bold">
+              <span class="text-gray-400">2019</span> - upf
+            </div>
+          </div>
+          <div>
+            soy ingeniero en audiovisuales! 🎉
+            <p class="italic text-gray-500">
+              tuve que haber hecho informática...
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="menu" class="float-right text-right">
+        <h1 class="text-xl pb-4">diego</h1>
+        <ul>
+          <li>
+            <a href="./upf.html">uni</a>
+          </li>
+          <li>
+            <a href="https://twitch.tv/dieguitohacker">twitch</a>
+          </li>
+          <li class="line-through">ensayos</li>
+        </ul>
+      </div>
+    </div>
+  </body>
 </html>
