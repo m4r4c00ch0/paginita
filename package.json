@@ -2,9 +2,16 @@
   "name": "pagina",
   "version": "1.0.0",
   "description": "este es el repositorio en el que subo mi pagina web publica.",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "rm -rf dist && npm run dev:eleventy & npm run dev:hmr & npm run dev:postcss",
+    "dev:postcss": "postcss src/styles/index.css --config ./postcss.config.js -w -o dist/css/index.css",
+    "dev:eleventy": "npx @11ty/eleventy --watch",
+    "dev:hmr": "browser-sync start --server ./dist -w --no-open --no-notify --no-ghost-mode",
+    "build": "npm run build:css && npm run build:html",
+    "build:css": "postcss src/styles/index.css --config ./postcss.config.js -o dist/css/index.css",
+    "build:html": "npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
@@ -17,6 +24,11 @@
   },
   "homepage": "https://github.com/m4r4c00ch0/paginita#readme",
   "devDependencies": {
-    "purgecss": "^4.0.0"
+    "@11ty/eleventy": "^0.11.1",
+    "browser-sync": "^2.26.14",
+    "postcss": "^8.2.6",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.3"
   }
 }
