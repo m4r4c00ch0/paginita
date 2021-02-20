@@ -1,0 +1,22 @@
+{
+  "name": "pagina",
+  "version": "1.0.0",
+  "description": "este es el repositorio en el que subo mi pagina web publica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4r4c00ch0/paginita.git"
+  },
+  "author": "diego rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m4r4c00ch0/paginita/issues"
+  },
+  "homepage": "https://github.com/m4r4c00ch0/paginita#readme",
+  "devDependencies": {
+    "purgecss": "^4.0.0"
+  }
+}
