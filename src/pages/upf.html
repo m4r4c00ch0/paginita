@@ -1,75 +1,38 @@
-<!-- TODO: como funcionan las directivas de css? -->
-<!-- TODO: links distintos en desktop -->
-<!-- TODO: hacer seccion de webs que lo petan que flipas -->
-<!-- TODO: mover menu a la izquierda cuando el lector esté en desktop -->
-<!-- TODO: auto traducción de la web i18n - internationalization -->
-<!-- TODO: hacer que el tailwindcss sea mas pequeño porque ahora pesa mucho -->
-<!-- TODO: hacer el menu dinamico para que solo tenga que tocarlo en un solo sitio -->
-<!-- TODO: trackeo privacy friendly cookie-free de gente que entra en la web -->
-
 <html>
 
 <head>
   <!-- ... -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="tailwind.css" rel="stylesheet" />
-  <link href="styles.css" rel="stylesheet" />
-  <title>diego: ~</title>
+  <link href="/css/index.css" rel="stylesheet" />
+  <title>diego: university</title>
 </head>
 
 <body class="p-8">
   <div class="grid grid-cols-3 gap-4 text-center">
     <div class="col-span-2 text-left">
-      <!-- beca de lacaixa card -->
-      <div class="rounded pb-4">
-        <div id="header" class="flex items-center">
-          <p class="h-6 w-6 align-baseline">📚</p>
-          <div id="title" class="font-bold">
-            <span class="text-gray-400">2020</span> - beca
-          </div>
-        </div>
-        <div>
-          me dieron la beca de
-          <a href="https://fundacionlacaixa.org/es/becas-la-caixa-posgrado-extranjero">lacaixa</a>
-          para estudiar en u.s.a. 🇺🇸
-        </div>
-      </div>
-      <!-- app de polaroo -->
-      <div class="rounded pb-4">
-        <div id="header" class="flex items-center">
-          <p class="h-6 w-6 align-baseline">📱</p>
-          <div id="title" class="font-bold">
-            <span class="text-gray-400">2020</span> - polaroo
-          </div>
-        </div>
-        <div>
-          estoy creando la aplicación de
-          <a href="http://polaroo.com">polaroo</a>
-        </div>
-      </div>
-      <!-- graduation -->
-      <div class="rounded pb-4">
-        <div id="header" class="flex items-center">
-          <p class="h-6 w-6 align-baseline">🎓</p>
-          <div id="title" class="font-bold">
-            <span class="text-gray-400">2019</span> - upf
-          </div>
-        </div>
-        <div>
-          soy ingeniero en audiovisuales! 🎉
-          <p class="italic text-gray-500">
-            tuve que haber hecho informática...
-          </p>
-        </div>
-      </div>
+      <h1 class="text-lg text-gray-500">> universidad</h1>
+      <p>
+        estudié ingeniería en sistemas audiovisuales. me pasó como a edwin
+        catmull—quería ser artista pero descubrió que lo suyo eran los
+        números.
+      </p>
+      <p>
+        la carrera se resume en mates, un poquito de edición de audio y vídeo
+        y muchísimo fourier. era un crack, pero estudiar para sus exámenes fue
+        difícil.
+      </p>
     </div>
     <div id="right-column" class="flex flex-col text-right">
-      <h1 class="text-xl text-gray-400"><span class="text-black">></span> diego</h1>
+      <h1 class="text-xl">
+        <a href="/">
+          diego
+        </a>
+      </h1>
       <div id="menu" class="text-right py-4">
         <ul>
-          <li>
-            <a href="./upf.html">uni</a>
+          <li class="text-gray-400">
+            <span class="text-black">></span> uni
           </li>
           <li class="line-through">ensayos</li>
         </ul>

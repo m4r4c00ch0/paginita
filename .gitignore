@@ -1,2 +1,9 @@
 # Visual Studio Code related stuff..
 .vscode
+
+# npm
+node_modules
+
+# distribution folders
+dist
+_site
