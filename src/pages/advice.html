@@ -1,34 +1,46 @@
-<!-- TODO: como funcionan las directivas de css? -->
-<!-- TODO: links distintos en desktop -->
-<!-- TODO: hacer seccion de webs que lo petan que flipas -->
-<!-- TODO: mover menu a la izquierda cuando el lector esté en desktop -->
-<!-- TODO: auto traducción de la web i18n - internationalization -->
-<!-- TODO: hacer que el tailwindcss sea mas pequeño porque ahora pesa mucho -->
-<!-- TODO: hacer el menu dinamico para que solo tenga que tocarlo en un solo sitio -->
-<!-- TODO: trackeo privacy friendly cookie-free de gente que entra en la web -->
-
 <html>
 
 <head>
+    <!-- ... -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="css/index.css" rel="stylesheet" />
-    <title>diego: ~</title>
+    <link href="/css/index.css" rel="stylesheet" />
+    <title>diego: consejos</title>
 </head>
 
 <body class="p-8">
     <div class="grid grid-cols-3 gap-4 text-center">
         <div class="col-span-2 text-left">
-            {{{content}}}
+            <h1 class="text-lg text-gray-500">> consejo</h1>
+            <strong>Si te interesa la tecnología...</strong>
+            <p>debes saber que la escuela no es tan importante como parece. De hecho, me sorprende ver a niños que creen
+                que
+                su edad es un factor limitante para tener éxito profesionalmente. No podrían estar más equivocados—sobre
+                todo en el caso de la tecnología.</p>
+            </p>
+            <p>Próximamente explicaré mis pensamientos al respecto en la sección de <code><i>ensayos</i></code>. De
+                momento, y si sabes inglés, te dejo una lista de los mejores links que he encontrado en internet en más
+                de 10 años. Muchas de tus dudas... resueltas.
+            </p>
+            <div class="border"></div>
+            <ul>
+                <li class="list-disc">
+                    <a href="https://patrickcollison.com/advice">Consejos</a> por Patrick Collison, fundador de
+                    <i>Stripe</i>
+                </li>
+            </ul>
         </div>
         <div id="right-column" class="flex flex-col text-right">
-            <h1 class="text-xl text-gray-400"><span class="text-black">></span> diego</h1>
+            <h1 class="text-xl">
+                <a href="/">
+                    diego
+                </a>
+            </h1>
             <div id="menu" class="text-right py-4">
                 <ul>
-                    <li>
-                        <a href="./pages/upf">uni</a>
+                    <li class="text-gray-400">
+                        <span class="text-black">></span> uni
                     </li>
-                    <li><a href="./pages/advice">consejos</a></li>
                     <li class="line-through">ensayos</li>
                 </ul>
             </div>

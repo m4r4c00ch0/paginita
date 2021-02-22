@@ -1,2 +1,2 @@
 serve: 
-	npm start
+	rm -rf dist/ && npm start
