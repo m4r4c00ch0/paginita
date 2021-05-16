@@ -1,0 +1,101 @@
+#+AUTHOR: Diego V. Rodriguez
+#+OPTIONS: \n:t
+
+* Creator's Block
+
+#+BEGIN_EXPORT html
+<img src="assets/Leonid_Pasternak_-_The_Passion_of_creation.jpeg"
+     width="576px"/>
+<i>
+  <p>
+    A representation of writer's block by Leonid Pasternak
+    (1862 – 1945)
+  </p>
+</i>
+#+END_EXPORT
+
+How do you learn to draw? How do you learn to write? How do you learn
+to walk? Well, the same way (current) computers learn. You perform the
+action you want to learn over and over. Is that simple.
+
+This is why is funny to me when others say that they do not try to
+draw because they do not know how. Those same people were once babies
+that drew all over the place and were babbling in their way to
+learning their native tongue. Isn't that funny? And I do not mean
+/funny/ funny, more like /sad/ funny.
+
+Despite all of this, most adults are stuck in the /tutorial hell/ of
+life figuring out how to get out of the rat race while there are [[https://youtu.be/6EM2U8v-KTg][kids]]
+that (might) seem to know the huge leverage we have today; not only
+are they programming the robot army of the future, they are publishing
+about how they did it at the same time. All while going to
+school. Naval would be [[https://twitter.com/naval/status/1002106317064949763][proud]].
+
+Most of the people out there would be better off coding instead of
+wondering how to code[fn:1][fn:2]. This is not me criticizing
+others. This is me talking to myself. Telling what, deep inside, I
+already knew. You only need to get going. That is all it takes to
+truly build something. To create something new in this world.
+
+At first, you should not worry whether that /new/ thing is of
+value. The path to skill has ups and downs. But, if you stay wondering
+eternally about the /Travelling Salesman Problem/ you will not travel
+nor sell anything.
+
+A beloved and smart friend once told me that as long as you keep
+building and thinking there is virtually nothing that you cannot do.
+I think this is sound advice. My gut has been telling me all of this
+for a long time now. Why then do we hesitate so much when listening to
+it? I have a hypothesis: we are afraid we might be wrong; we might be
+find out that we are more than able to accomplish gigantic things.
+
+This is why so many people love the genius story. The story about the
+person whose brain were once touched by God or Midas itself when they
+were born. And ever since then their willpower was only unmatched by
+their IQ. How are we supposed to compete with these individuals?
+
+I think that is wishful thinking. It is easier to imagine that we are
+our brain is not in top 0.05%. That we do not have enough willpower
+and that it cannot be trained. That there is no way that we can become
+rich or create anything valuable.
+
+Not only I think is false, but I also think that it matters less and
+less as time goes by. The more time passes the more leverage we
+have. Writers reach millions on pennies. Musicians can play for the
+masses. Programmers can control so many processors that we literally
+don't know what to do with them anymore. This is the new Renaissance
+Age. A new age kindled by the spark of transistors instead of the
+printing press or the steam engine.
+
+Software will keep eating the world and will increase its complexity
+in the process. The world will get noisier as well. Abundance will
+turn into scarcity; where there is a lot, there is a lot to sort
+out. I invite all of the adults reading my words to think about
+children. All kinds of children, including you as a child.
+
+What would a lot of children with infinite healthy food, no reason to
+fight one another, and tools all over the place do? I want to live in
+that human society. One full of artists, engineers, philosophers,
+caring parents, and happy elders. Perhaps even, one where death is a
+choice among the ones with a soul–whatever that is.
+
+Before we arrive to that, or anything close, you and I need to
+build. Build as if our life depended on it. Of course, not everybody
+will be an artist, an entrepreneur, an engineer, or a scientist. And I
+am not bold enough to guess the roles of future humans. But there is
+something I do know.
+
+If you want to do whatever you want, first, you must...
+
+/make something that people want/
+
+* Footnotes
+
+[fn:2]After all, that is [[https://twitter.com/paulg/status/1247081777547616266][the most important quality of code]].
+
+[fn:1]As Kevin O'Leary said about business: you are not going to
+learn about business by reading about business; and you are definitely
+not going to learn about business reading about learning about
+business.
+
+
