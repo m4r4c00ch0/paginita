@@ -14,82 +14,152 @@
 </i>
 #+END_EXPORT
 
-How do you learn to draw? How do you learn to write? How do you learn
-to walk? Well, the same way (current) computers learn. You perform the
-action you want to learn over and over. Is that simple.
+/For days I have felt blocked; and I know that, in these cases, the
+best thing you can do is to create non-stop./
 
-This is why is funny to me when others say that they do not try to
+I thought about this some days ago. Then I decided to write an essay
+about it.  After all, if you feel a certain way, you can be confident
+that others feel that way too---this is /Being Human 101/[fn:4].
+
+The creative forces that drive your mind are not immune to Newton's
+laws of motion---especially the first one [fn:5]. Thus, if you apply
+force to create, your mind will keep a somewhat steady rate of
+creation.  This is not unique to objects in the physical world or the
+creative mind; this happens with habits as well.  Do you know why
+after you stop working out for a while, if you are not careful, you
+stop altogether?  Newton does.
+
+Why, then, do we hesitate so much when trying to overcome this
+opposite force to creativity?  If we only need to keep creating, why
+don't we do it more?
+
+After some thought of what the cause might be, my best bet is
+fear. Fear of wasting one's life pursuing a potentially bad course.
+If there is anything that haunts people at night it is the feeling
+that they are not living their ephemeral life to the fullest.  At
+least that is my fear. It seems a recurrent theme among artists
+too[fn:3].
+
+Then, the answer is simple: just work on that which you are good
+at. But, how are we supposed to know what we are good at without
+trying it first? My guess is that you cannot. You must try that
+something more than once---some even define /trying/ as engaging in
+the task at hand for years.
+
+Until you find something that looks like work to others but play to
+you, keep exploring.  Use your innate curiosity.  Then, start
+learning[fn:6].
+
+Now, how do you learn to draw, write, or, well, do anything?  The same
+way computers learn. You perform the action you want to learn over and
+over. It is that simple. The efficiency and effectiveness depends on
+many factors---such as genes or the environment. But, while the
+factors that define the learning rate are somewhat variable, the way
+to learn is constant.
+
+This is why it is funny to me when others say that they do not try to
 draw because they do not know how. Those same people were once babies
 that drew all over the place and were babbling in their way to
-learning their native tongue. Isn't that funny? And I do not mean
+learning their native tongue(s). Isn't that funny? And I do not mean
 /funny/ funny, more like /sad/ funny.
 
-Despite all of this, most adults are stuck in the /tutorial hell/ of
-life figuring out how to get out of the rat race while there are [[https://youtu.be/6EM2U8v-KTg][kids]]
-that (might) seem to know the huge leverage we have today; not only
-are they programming the robot army of the future, they are publishing
-about how they did it at the same time. All while going to
-school. Naval would be [[https://twitter.com/naval/status/1002106317064949763][proud]].
+Despite many people knowing all of this, most adults are stuck in the
+/tutorial purgatory/[fn:9] of life figuring out how to get out of the
+rat race. Meanwhile, there are [[https://youtu.be/6EM2U8v-KTg][kids]] that seem to know the huge
+leverage we have today and, bear with me, seem to have fun in the
+process. Can you believe it? Not only are they programming the robot
+army of the future; they are publishing about how they did it at the
+same time. All while going to school. Naval Ravikant and Paul Graham
+would be [[https://twitter.com/naval/status/1002106317064949763][proud]].
 
 Most of the people out there would be better off coding instead of
 wondering how to code[fn:1][fn:2]. This is not me criticizing
-others. This is me talking to myself. Telling what, deep inside, I
+others. This is me talking to myself about what, deep inside, I
 already knew. You only need to get going. That is all it takes to
 truly build something. To create something new in this world.
 
 At first, you should not worry whether that /new/ thing is of
-value. The path to skill has ups and downs. But, if you stay wondering
+value. Just like we cannot judge a butterfly in its larval form, we
+cannot judge our future work based on how it looks now. We do this
+naturally. This is why so many great ideas are disregarded so
+baldly.
+
+The path to skill has ups and downs. But, if you stay wondering
 eternally about the /Travelling Salesman Problem/ you will not travel
-nor sell anything.
+nor sell anything. And it is better to go back to where you started
+instead of never having moved in the first place[fn:7].
 
-A beloved and smart friend once told me that as long as you keep
-building and thinking there is virtually nothing that you cannot do.
-I think this is sound advice. My gut has been telling me all of this
-for a long time now. Why then do we hesitate so much when listening to
-it? I have a hypothesis: we are afraid we might be wrong; we might be
-find out that we are more than able to accomplish gigantic things.
+A beloved and smart friend once told me kind words. I think they apply
+to more people than I would have imagined:
 
-This is why so many people love the genius story. The story about the
-person whose brain were once touched by God or Midas itself when they
-were born. And ever since then their willpower was only unmatched by
-their IQ. How are we supposed to compete with these individuals?
+/Never ever stop. Continue building, creating, and thinking. There are
+virtually no limits to how far you can get./
 
-I think that is wishful thinking. It is easier to imagine that we are
-our brain is not in top 0.05%. That we do not have enough willpower
-and that it cannot be trained. That there is no way that we can become
-rich or create anything valuable.
+Do you ever wonder why many people love the genius story? The story
+about the person whose brain was once touched by God or Midas himself
+when they were born? How are we supposed to compete with these
+individuals?  "Why even bother" is what we tell ourselves to appease
+our anxiety.  To rationalize our laziness.
 
-Not only I think is false, but I also think that it matters less and
-less as time goes by. The more time passes the more leverage we
-have. Writers reach millions on pennies. Musicians can play for the
-masses. Programmers can control so many processors that we literally
-don't know what to do with them anymore. This is the new Renaissance
-Age. A new age kindled by the spark of transistors instead of the
-printing press or the steam engine.
+I think that is wishful thinking. One does not need to be Einstein to
+become rich. Yet, it is easier to imagine that our brain is not in the
+top 0.05% and, thus, there is no point in trying. Or so we tell
+ourselves.
+
+I believe that we should work hard despite our perceived weaknesses,
+because they matter less than we think. And even less as time goes
+by. The more leverage we have, thanks to programming and media, the
+less our marginal differences in intelligence matter to achieve
+certain things.  At least, so that we all live comfortably.  Writers
+reach millions spending pennies---if any--by using online
+blogs. Musicians play for the masses on Spotify without the
+distribution costs of CDs. Programmers can control so many processors
+for free that they don't even know what to do with them. It has come
+to the point where they program the robot army to create applications
+about memes[fn:8]. This is the new Renaissance Age. One kindled by the
+spark of transistors instead of the printing press or the steam
+engine. So, go out there and learn some useful skills. A good place to
+start is math.
 
 Software will keep eating the world and will increase its complexity
-in the process. The world will get noisier as well. Abundance will
-turn into scarcity; where there is a lot, there is a lot to sort
-out. I invite all of the adults reading my words to think about
-children. All kinds of children, including you as a child.
+in the process. There is a lot to build. The world will get noisier as
+well. In the Information Age, information overload is the order of the
+day. Abundance creates a particular form of scarcity; where there is a
+lot, there is a lot to sort out. So, let us build the tools that will
+help us tackle this paradox.
 
-What would a lot of children with infinite healthy food, no reason to
-fight one another, and tools all over the place do? I want to live in
-that human society. One full of artists, engineers, philosophers,
-caring parents, and happy elders. Perhaps even, one where death is a
-choice among the ones with a soul–whatever that is.
+* Acknowledgements
 
-Before we arrive to that, or anything close, you and I need to
-build. Build as if our life depended on it. Of course, not everybody
-will be an artist, an entrepreneur, an engineer, or a scientist. And I
-am not bold enough to guess the roles of future humans. But there is
-something I do know.
+  *Thanks* to Victor Perez, Stefan Acin, Luisa Gonzalez, and Daniel
+  Orihuela for reading some drafts of this essay.
 
-If you want to do whatever you want, first, you must...
-
-/make something that people want/
+  *Thanks* to Paul Graham, Naval Ravikant, Amjad Masad, Richard
+  Stallman, Linus Torvalds, and Stephen Elliott for inspiring me.
 
 * Footnotes
+
+[fn:9]Tutorial purgatory---or tutorial hell---is what some computer
+programmers call the phase where one is attending courses and reading
+manuals instead of building new things.  I call it the Anti-[[https://fs.blog/2021/02/feynman-learning-technique/][Feynmann
+Technique]] of learning.  The only way you can learn is by explaining
+what you learn and using that information in a variety of situations.
+
+[fn:8][[https://replit.com/apps/memes][Literally.]] 
+
+[fn:7]this is why this essay is online despite its flaws; preach what
+you teach.
+
+[fn:6]This problem is so pervasive that computer scientists even have
+a name for it: the explore-exploit problem.
+
+[fn:5]An object will not change its motion unless a force acts on it. 
+
+[fn:4]My gut tells me that realizing this early in life is
+important. Particularly if you want to create a startup.
+
+[fn:3]For example, Leonardo Da Vinci is famous to have said "I have
+offended God and mankind because my work did not reach the quality it
+should have.". Allegedly.
 
 [fn:2]After all, that is [[https://twitter.com/paulg/status/1247081777547616266][the most important quality of code]].
 
@@ -97,5 +167,4 @@ If you want to do whatever you want, first, you must...
 learn about business by reading about business; and you are definitely
 not going to learn about business reading about learning about
 business.
-
 
