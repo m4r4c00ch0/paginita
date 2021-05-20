@@ -130,6 +130,49 @@ day. Abundance creates a particular form of scarcity; where there is a
 lot, there is a lot to sort out. So, let us build the tools that will
 help us tackle this paradox.
 
+As for me, I will continue to learn about computer science and math.
+However, I still need to refine my interests; to find
+knowledge-interest fit[fn:11].  Finding what one loves is not
+easy[fn:10].  In fact, I have not done it myself.  Computer science,
+math, and art is a subset in the set of all human knowledge, but that
+is not enough.  One must find a subset you feel passionate about--at
+the bare minimum.
+
+You need to enjoy your work more than your unproductive pleasures.
+What I call /creator's block/ in this essay is part block and part
+procrastination.  Nobody procrastinates when they are doing something
+exciting---even work. Thus, if you find yourself procrastinating like
+I do, perhaps you need to redefine what work is for you.
+
+If you want to beat the creator's block, tackle the root causes .
+Procrastination fades when you are working in something that makes you
+admire yourself.  While we our own worst critic, we have all felt
+proud of our accomplishments.  I am not talking about artificial
+accomplishments such as a getting your college degree, getting into
+medical school, or finding a new job.  These are external rewards
+crafted by society, not by your inner self.  They are accomplishments
+on paper and will only make you happy on paper as well.
+
+If it is not artificial problems, what kind of problems are we talking
+about?  I am talking about those problems that you solved and made you
+go into the mirror and think: you rock.  For example, my mom is bad
+with electronic devices. One day, though, she fixed her own phone from
+a virus and felt ecstatic about it for three days straight.  What is
+amusing and endearing about this situation is that I remember that she
+once got a salary increase and did not feel as happy. When she got her
+raise it felt like the happiness lasted for less than a third of time
+and was not as intense in comparison to when she fixed her phone by
+herself.  Work on those kind of problems.  The ones that make you and
+your friends think, wow, that is pretty cool.
+
+In the end, YCombinator's motto of /make something people want/
+applies to you in the first place.  Follow the airlines principle of
+helping yourself before you start helping others.  Until you start
+working on something that people want, you should be working on
+something that you want.  And before that, you should be working on
+finding out what is it that you want to work on.  You only need one
+home run to win the game.
+
 * Acknowledgements
 
   *Thanks* to Victor Perez, Stefan Acin, Luisa Gonzalez, and Daniel
@@ -139,6 +182,14 @@ help us tackle this paradox.
   Stallman, Linus Torvalds, and Stephen Elliott for inspiring me.
 
 * Footnotes
+
+[fn:11]If we imagine knowledge as a set of points and your interests
+as another, to work on what you love is to find the intersection
+between those two sets.  While I may have over-simplified it (since
+you also need to take into account your natural ability and other
+factors), I think that this is a good thumb rule to follow.
+
+[fn:10]Paul Graham wrote a whole [[http://www.paulgraham.com/love.html][essay]] about it. 
 
 [fn:9]Tutorial purgatory---or tutorial hell---is what some computer
 programmers call the phase where one is attending courses and reading
