@@ -10,4 +10,4 @@ speeds are low, a text-based site is much appreciated.
   * Where do you practice touch typing?
   
   At [typing.academy](https://www.typing.academy/ "An academy for,
-  well, typing")ho
+  well, typing")
