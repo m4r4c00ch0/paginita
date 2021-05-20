@@ -1,11 +1,13 @@
 #+AUTHOR: Diego V. Rodriguez
-#+OPTIONS: \n:t
-
-* Creator's Block
+#+TITLE: Creator's Block
+#+OPTIONS: \n:t num:nil toc:nil
 
 #+BEGIN_EXPORT html
+<style type="text/css">
+ .title { text-align: left; }
+</style>
 <img src="assets/Leonid_Pasternak_-_The_Passion_of_creation.jpeg"
-     width="576px"/>
+     width="288px"/>
 <i>
   <p>
     A representation of writer's block by Leonid Pasternak
