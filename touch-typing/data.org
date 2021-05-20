@@ -1,0 +1,24 @@
+#+title: Touch Typing Progress
+#+author: Diego V. Rodriguez
+
+* What is this?
+
+  This is a document documenting my touch typing lessons at the [[https://www.typing.academy/][Typing
+  Academy web site]].
+
+  The methodology that I am following is simple. I take a lesson every
+  day and, after I finish, I do a 2 minute typing test. Finally, I
+  record my results here a put a timestamp on it.
+
+* Progress
+
+** Lessons
+
+  | Date             | Lesson name   |
+  |------------------+---------------|
+  | <2021-05-20 Thu> | Base position |
+  
+** Metrics
+  | Date             | Points | Words per min | Error rate | Mistakes | Signs |
+  | <2021-05-20 Thu> |    502 |          55.6 |      3.96% |       22 |   556 |
+  
